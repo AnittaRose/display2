@@ -1,0 +1,70 @@
+.fname{
+    display: block;
+   
+    height: 60px;
+    margin: 4px;
+    background-color: green;
+    border: 2px solid black;
+}
+
+.Sname{
+    display: inline;
+   width: 60px;
+    height: 60px;
+    margin: 4px;
+    background-color: green;
+    border: 2px solid black;
+}
+.fname{
+    display: inline-block;
+   
+    height: 60px;
+    margin: 4px;
+    background-color: green;
+    border: 2px solid black;
+}
+.Sname{
+    display: none;
+   width: 60px;
+    height: 60px;
+    margin: 4px;
+    background-color: green;
+    border: 2px solid black;
+}
+
+header{
+    
+}
+p{
+/* font-size: 40px; */
+font-size: 2em;
+}
+.first{
+    background-color: blue;
+    margin: 10px;
+    color: black;
+    opacity: 0.5;
+    border: 2px solid black;
+}
+.second{
+    background-color: red;
+    color: black;
+    margin: 10px;
+    opacity: 0.5;
+    border: 2px solid black;
+}
+
+.three{
+    background-color: yellow;
+    color: black;
+    margin: 10px;
+    opacity: 0.5;
+    border: 2px solid black;
+}
+
+header , footer{
+    background-color: black;
+    color: white;
+    margin: 10px;
+    border: 2px solid red;
+}
