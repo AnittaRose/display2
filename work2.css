@@ -1,10 +1,12 @@
 .container{
-    background-image:url(/images/images.jpg);
+    background-image: url(/display2/images/images.jpg);
     width: 50vw;
     height: 30vw;
     margin: auto;
     margin-top: 100px;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-right: 0px;
+    position: fixed;
 
 }
