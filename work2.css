@@ -7,6 +7,12 @@
     background-repeat: no-repeat;
     background-size: cover;
     margin-right: 0px;
+}
+.box1{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    color: white;
     position: fixed;
-
+    text-align: center;
 }
