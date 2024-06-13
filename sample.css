@@ -1,0 +1,14 @@
+nav{
+    background-color: black;
+    color: aqua;
+    font-size: 25px;
+    text-align: center;
+
+}
+span{
+    margin: 9px;
+}
+nav span :hover{
+    color: red;
+
+}
